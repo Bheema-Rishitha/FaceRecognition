@@ -1,1 +1,8 @@
 ﻿streamlit>=1.35.0
+opencv-python-headless>=4.8.0
+numpy>=1.26.0,<2.0.0
+pandas>=2.0.0
+deepface>=0.0.90
+retina-face>=0.0.17
+pillow>=9.2.0
+requests>=2.27.0
