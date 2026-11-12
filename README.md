@@ -2,7 +2,7 @@
 
 An automated attendance tracking web application built with Python, Streamlit, DeepFace, and RetinaFace. The system replaces manual roll calls by detecting and recognizing student faces from uploaded classroom images and logging attendance records automatically.
 
-🌐 **Live Demo:** [View App on Streamlit Cloud](https://facerecognition-dxalvvkrpqneltbzhghbb2.streamlit.app)
+🌐 **Live Demo:** [View App on Streamlit Cloud](https://facerecognition-dxalvvwkrpqneltbzhgbb2.streamlit.app/)
 
 ## Features
 
